@@ -9,13 +9,13 @@ const GenerateMD = require('./utils/generateMarkdown');
 const questions = [
     "Enter project title:",
     "Enter a description:",
-    "Enter installation instructions",
-    "Enter Usage instructions",
-    "Enter contribution guidelines",
-    "Enter test guidelines",
-    "Select a license",
-    "Enter any questions you have",
-    "What is your Github username",
+    "Enter installation instructions:",
+    "Enter Usage instructions:",
+    "Enter contribution guidelines:",
+    "Enter test guidelines:",
+    "Select a license:",
+    "Enter any questions you have:",
+    "What is your Github username:",
     'Enter Email:'
 
 ];
@@ -25,6 +25,7 @@ const licenses = [
    'MIT',
    'Apache-2.0',
    'BSD 3-Clause License',
+   'none'
 ]
 
 

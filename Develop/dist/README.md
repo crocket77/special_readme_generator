@@ -1,5 +1,5 @@
 
-# big project
+# README generator project
   
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -15,22 +15,19 @@
 - [&nbsp; License](#license)
 
 ## &nbsp; Project Description
-this is a really long description
+Creating professional READMEs using command line prompts for input.
 
 ## &nbsp; Installation
-do this then do that
+Download file folder from my github at www.github.com/crocket77/special_readme_generator
 
 ## &nbsp; Usage
-use it this way
+Navigate to the develop folder and open your terminal. Type in "node index.js" and press enter. Answer the prompts all the way through and your README.md file will be in the "dist" folder when you are done.  
 
 ## &nbsp; Contribution Guidelines
-if you want to help do this
+Please feel free to contribut any way you like. Submit a pull request with a description of what you want to do.
 
 ## &nbsp; Tests
-undefined
-
-## &nbsp; Credits
-undefined
+no guidelines now
 
 ## &nbsp; Contact
 If you have any questions or need to get in touch you can reach me via GitHub or E-mail!
