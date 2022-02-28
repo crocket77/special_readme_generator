@@ -22,15 +22,13 @@ const questions = [
 
 //array of licenses
 const licenses = [
-    'MIT',
-    'LIC',
-    'ETA'
+   'MIT',
+   'Apache-2.0',
+   'BSD 3-Clause License',
 ]
 
 
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
 function init() {
