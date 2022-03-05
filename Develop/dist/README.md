@@ -24,7 +24,7 @@ Download file folder from my github at www.github.com/crocket77/special_readme_g
 Navigate to the develop folder and open your terminal. Type in "node index.js" and press enter. Answer the prompts all the way through and your README.md file will be in the "dist" folder when you are done.  
 
 ## &nbsp; Contribution Guidelines
-Please feel free to contribut any way you like. Submit a pull request with a description of what you want to do.
+Please feel free to contribute any way you like. Submit a pull request with a description of what you want to do.
 
 ## &nbsp; Tests
 no guidelines now
