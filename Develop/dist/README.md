@@ -1,8 +1,10 @@
 
-# README generator project
+# rtwar
   
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+License Badge:
+No license Badge
+License Link:
+No license link
 
 ## &nbsp; Table of Contents
 - [&nbsp; Project Description](#project-description)
@@ -15,33 +17,26 @@
 - [&nbsp; License](#license)
 
 ## &nbsp; Project Description
-Creating professional READMEs using command line prompts for input.
+dDd
 
 ## &nbsp; Installation
-Download file folder from my github at www.github.com/crocket77/special_readme_generator
+DAFAF
 
 ## &nbsp; Usage
-Navigate to the develop folder and open your terminal. Type in "node index.js" and press enter. Answer the prompts all the way through and your README.md file will be in the "dist" folder when you are done.  
+none
 
 ## &nbsp; Contribution Guidelines
-Please feel free to contribute any way you like. Submit a pull request with a description of what you want to do.
+none
 
 ## &nbsp; Tests
-no guidelines now
+noen
 
 ## &nbsp; Contact
 If you have any questions or need to get in touch you can reach me via GitHub or E-mail!
 
->**Github: [crocket77](https://github.com/crocket77)**
+>**Github: [none](https://github.com/none)**
 
->**E-mail: [e@e.com](mailto:e@e.com)**
+>**E-mail: [none](mailto:none)**
 
 ## &nbsp; License
-	Copyright 2022 undefined
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-	
+No license for this project
