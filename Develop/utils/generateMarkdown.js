@@ -64,10 +64,10 @@ function renderLicenseLink(license) {
 };
 
 // function that returns the license section of README
-function renderLicenseSection(license, owner) {
+function renderLicenseSection(license) {
 
 	if (license === 'MIT') {
-return `	Copyright ${new Date().getFullYear()} ${owner}
+return `	Copyright ${new Date().getFullYear()} 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -77,7 +77,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 	`
 	}
 	else if (license === 'Apache-2.0') {
-return `	Copyright ${new Date().getFullYear()} ${owner}
+return `	Copyright ${new Date().getFullYear()} 
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -92,7 +92,7 @@ See the License for the specific language governing permissions and
 limitations under the License.`
 	}
 	else if (license === 'BSD 3-Clause License') {
-return `	Copyright ${new Date().getFullYear()} ${owner}
+return `	Copyright ${new Date().getFullYear()} 
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
@@ -157,7 +157,7 @@ If you have any questions or need to get in touch you can reach me via GitHub or
 >**E-mail: [${data.email}](mailto:${data.email})**
 
 ## &nbsp; License
-${renderLicenseSection(data.license, data.name)}
+${renderLicenseSection(data.license)}
 `
 };
 
